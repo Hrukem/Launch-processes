@@ -1,2 +1,1 @@
-# Launch-processes
-The launch of three processes.
+Start independent processes and restart them after a crash.
